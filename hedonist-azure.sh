@@ -17,3 +17,4 @@ sudo apt update && sudo apt upgrade -y
 # Let us add some basic packages from apt
 
 sudo apt install build-essential bc -y
+sudo apt install openjdk-8-jdk
